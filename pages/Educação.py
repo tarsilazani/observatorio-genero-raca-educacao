@@ -103,4 +103,5 @@ with c5:
     card_percentual(pct_2019, 2019)
 with c6:
     card_percentual(pct_2020, 2020)
+st.subheader("")
 st.caption("A participação descreve qual porcentagem o perfil escolhido de estudante representava do total de bolsas do ProUni nos anos analisados.")
