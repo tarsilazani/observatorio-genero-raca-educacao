@@ -86,7 +86,7 @@ st.markdown(
     f"""
     <p style="font-size:16px; color:#E6F5EC; margin-bottom:10px;">
         Entre 2000 e 2010, <strong>{atividade_maior_alta['atividade']}</strong> foi a modalidade de atividade
-        que mais cresceu entre as mulheres em {estado_selecionado}, enquanto a modalidade
+        que mais cresceu entre as mulheres na região {estado_selecionado}, enquanto a modalidade
         <strong>{atividade_maior_queda['atividade']}</strong> apresentou a maior retração.
     </p>
     """,
