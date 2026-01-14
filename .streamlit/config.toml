@@ -1,0 +1,16 @@
+[theme]
+base = "dark"
+
+# Verde-acinzentado como cor primária (links, destaques sutis)
+primaryColor = "#8FB7B0"
+
+# Fundo principal (dark neutro com leve azul)
+backgroundColor = "#2E323A"
+
+# Cards, sidebar, blocos
+secondaryBackgroundColor = "#24262D"
+
+# Texto principal (alto contraste, não branco puro)
+textColor = "#E6F5EC"
+
+font = "sans serif"
